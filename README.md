@@ -1,11 +1,12 @@
-# Flash-Chat
-Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Flash Chat App
+# ios_flash-chat
+- a simple messaging app 
 
-Download the starter project files as .zip and extract to your desktop. ^^
+## App functions 
+
+- Log in and sign up using Firebase 
+- message each others 
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
 
 
-
-Copyright 2016 London App Brewery
