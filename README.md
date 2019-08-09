@@ -1,4 +1,4 @@
-# ios_flash-chat
+# ios_flash_chat
 - a simple messaging app 
 
 ## App functions 
